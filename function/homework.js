@@ -1,31 +1,35 @@
 
-let names = prompt("enter your name");
+// let names = prompt("enter your name");
 
-let surnames = prompt("enter your last name");
+// let surnames = prompt("enter your last name");
 
-let ages = +prompt("enter your age")
+// let ages = +prompt("enter your age")
 
-function setinfo( name, surname, age ){
+// function setinfo( name, surname, age ){
    
-	infos.student1[name]= names
-    infos.student1[surname]= surnames
-	infos.student1[age]= ages
+// 	infos.student1[name]= names
+//     infos.student1[surname]= surnames
+// 	infos.student1[age]= ages
 
-}
-let infos = {
+// }
+// let infos = {
 
-    student1: {
-    },
+//     student1: {
+//     },
 
-    student2: {
-    },
+//     student2: {
+//     },
 
-    student3: {
+//     student3: {
 		
 
-    }
+//     }
 
-}
+// }
+
+let string = "asd"
+
+function stringToNum(str) 
 
 
 
