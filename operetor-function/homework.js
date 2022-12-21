@@ -252,7 +252,28 @@ function pow3(x, n) {
 	}
 }
 console.log(pow3(2, 3))
+// [[[]]]]]]]]]]]]]]]]==========
+//function pow(x, n) {
+// 	let result = 1;
 
+// 	for (let i = 0; i < n; i++) {
+// 	  result *= x;
+// 	}
+  
+// 	return result;
+//   }============================
+// function pow(x, n) {
+// 	if (n < 0) return NaN;
+// 	if (Math.round(n) != n) return NaN;
+  
+// 	let result = 1;
+  
+// 	for (let i = 0; i < n; i++) {
+// 	  result *= x;
+// 	}
+  
+// 	return result;
+//   }
 //2 - function floor(n)
 //floor(2.7324234) 2
 
