@@ -47,3 +47,5 @@ str = '9860123426218122'
 
 
   
+  let myNumber = 1010101010101010;
+  console.log(myNumber.toString(10))
